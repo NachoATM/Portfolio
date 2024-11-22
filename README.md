@@ -43,7 +43,7 @@ La página incluye:
    - Hice que los iconos fueran redondos y añadí animaciones de hover con **CSS transitions**.
 
 ### 5. **Botones interactivos**
-   - Añadí tres botones (`Teaching`, `Software`, `Research`) que redirigen a diferentes URLs.
+   - Añadí tres botones (`Teaching`, `Software`, `Research`) que redirigen a diferentes URLs añadiendo una "alarma" que te dijese que ibas a ser redirigido.
    - Aseguré que se mantuvieran alineados horizontalmente y responsive.
 
 ### 6. **Optimización final**
