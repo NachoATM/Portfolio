@@ -32,7 +32,7 @@ La página incluye:
    - Incluí enlaces a recursos externos y estilos en un archivo CSS separado (`styles.css`).
 
 ### 2. **Estilización inicial**
-   - Usé CSS para agregar colores, tamaños y alineación de texto.
+   - Usé CSS para agregar colores, tamaños, fuentes y alineación de texto.
    - Añadí un diseño básico inspirado en un ejemplo visual.
 
 ### 3. **Responsividad**
